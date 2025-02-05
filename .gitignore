@@ -23,3 +23,5 @@ dist/
 # Sistema operativo y otros
 .DS_Store
 Thumbs.db
+
+.env
